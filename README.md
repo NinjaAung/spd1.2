@@ -41,4 +41,4 @@ allowfullscreen></iframe>
 
 ## FOOTER / CONTACT
 
-![Footer](spd1.2/wireframes/PokeTrack_Footer.png)
+![Footer](./wireframes/PokeTrack_Footer.png)
