@@ -4,6 +4,16 @@
 
 [Website](http://nyein-aung.com/spd1.2/)
 
+# Usage
+
+```bash
+docker-compose build
+```
+
+```bash
+docker-compose up
+```
+
 # Wireframes Capstone
 
 <html>
